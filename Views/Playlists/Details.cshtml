@@ -1,0 +1,80 @@
+﻿@model MusicStore.ViewModel.PlaylistViewModel
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+
+<br />
+<a asp-action="AddSong" asp-controller="Playlists" asp-route-id="@Model.playlist.Id">AddSong</a>
+<br />
+<div>
+    <h4>Playlist</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.playlist.Name)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.playlist.Name)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.playlist.Details)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.playlist.Details)
+        </dd>
+    </dl>
+    <br />
+    <div>
+        --Thumbnail--
+        <div class="row">
+            <div class="col-sm-6">
+                <img src="@("~/thumbnails/"+Model.playlist.ThumbnailPath)" asp-append-version="true" width="500" height="300" />
+            </div>
+        </div>
+    </div>
+    <br />
+    <div>
+        <table class="table">
+            <thead>
+                <tr>
+                    <th>
+                        Name
+                    </th>
+                    <th>
+                        Details
+                    </th>
+                    <th></th>
+                    <th></th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model.songs)
+                {
+                    <tr>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Name)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Details)
+                        </td>
+                        <td>
+                            <audio id="video" src="@Url.Content("~/songs/"+item.SongPath)" controls="true" width="450" height="300" loop>
+                            </audio>
+                        </td>
+                        <td>
+                            <a asp-action="RemoveSongFromPlaylist" asp-route-id="@item.Id" asp-route-pid="@ViewBag.pid">Remove</a>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model.playlist.Id
+       ">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>

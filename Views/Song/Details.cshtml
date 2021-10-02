@@ -1,0 +1,58 @@
+﻿@model MusicStore.Models.Song
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+
+<div>
+    <h4>Song</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Name)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Name)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Details)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Details)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Genre)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Genre)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Language)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Language)
+    </dl>
+    <div>
+        --Thumbnail--
+        <div class="row">
+            <div class="col-sm-6">
+                <img src="@("~/thumbnails/"+Model.ThumbnailPath)" asp-append-version="true" width="500" height="300" />
+            </div>
+        </div>
+    </div>
+    <div>
+        <br>
+        --Song--<br><br>
+        <div>
+            <audio autoplay id="video" src="@Url.Content("~/songs/"+Model.SongPath)" controls="true" width="450" height="300" loop>
+            </audio>
+        </div>
+    </div>
+</div>
+<div>
+    <a asp-controller="Album" asp-action="Details" asp-route-id="@Model.AlbumId">Go to Album</a> |
+    <a asp-action="Edit" asp-route-id="@Model.Id">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>

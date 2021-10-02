@@ -1,0 +1,88 @@
+﻿@model MusicStore.Models.Album
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+<br/>
+<a asp-action="AddSong" asp-route-id="@Model.Id">AddSong</a>
+<br />
+<div>
+    <h4>Album</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Name)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Name)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Details)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Details)
+        </dd>
+    </dl>
+    <div>
+        --Thumbnail--
+        <div class="row">
+            <div class="col-sm-6">
+                <img src="@("~/thumbnails/"+Model.ThumbnailPath)" asp-append-version="true" width="500" height="300" />
+            </div>
+        </div>
+    </div>
+</div>
+<div>
+    <div>
+        <table class="table">
+            <thead>
+                <tr>
+                    <th>
+                        Name
+                    </th>
+                    <th>
+                        Details
+                    </th>
+                    <th>
+                        Genre
+                    </th>
+                    <th>
+                        Language
+                    </th>
+                    <th></th>
+                </tr>
+            </thead>
+            <tbody>
+                @if (Model.Song!=null)
+                {
+                    @foreach (var item in Model.Song)
+                    {
+                        <tr>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.Name)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.Details)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.Genre)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.Language)
+                            </td>
+                            <td>
+                                <a asp-action="EditSong" asp-route-id="@item.Id">Edit</a> |
+                                <a asp-action="DetailsSong" asp-route-id="@item.Id">Details</a> |
+                                <a asp-action="DeleteSong" asp-route-id="@item.Id">Delete</a>
+                            </td>
+                        </tr>
+                    }
+                }
+            </tbody>
+        </table>
+    </div>
+    <a asp-action="Edit" asp-route-id="@Model.Id">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>

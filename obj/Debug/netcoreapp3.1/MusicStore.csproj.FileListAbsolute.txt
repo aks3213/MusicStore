@@ -1,0 +1,554 @@
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\song done\MusicStore\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\song done\MusicStore\bin\Debug\netcoreapp3.1\appsettings.json
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\song done\MusicStore\bin\Debug\netcoreapp3.1\MusicStore.exe
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\song done\MusicStore\bin\Debug\netcoreapp3.1\MusicStore.deps.json
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\song done\MusicStore\bin\Debug\netcoreapp3.1\MusicStore.runtimeconfig.json
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\song done\MusicStore\bin\Debug\netcoreapp3.1\MusicStore.runtimeconfig.dev.json
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\song done\MusicStore\bin\Debug\netcoreapp3.1\MusicStore.dll
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\song done\MusicStore\bin\Debug\netcoreapp3.1\MusicStore.pdb
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\song done\MusicStore\bin\Debug\netcoreapp3.1\MusicStore.Views.dll
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\song done\MusicStore\bin\Debug\netcoreapp3.1\MusicStore.Views.pdb
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\song done\MusicStore\bin\Debug\netcoreapp3.1\Humanizer.dll
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\song done\MusicStore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\song done\MusicStore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\song done\MusicStore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\song done\MusicStore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\song done\MusicStore\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\song done\MusicStore\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\song done\MusicStore\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\song done\MusicStore\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\song done\MusicStore\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\song done\MusicStore\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\song done\MusicStore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\song done\MusicStore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\song done\MusicStore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\song done\MusicStore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\song done\MusicStore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\song done\MusicStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\song done\MusicStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\song done\MusicStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\song done\MusicStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\song done\MusicStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\song done\MusicStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\song done\MusicStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\song done\MusicStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\song done\MusicStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\song done\MusicStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\song done\MusicStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\song done\MusicStore\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\song done\MusicStore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\song done\MusicStore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\song done\MusicStore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\song done\MusicStore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\song done\MusicStore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\song done\MusicStore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\song done\MusicStore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\song done\MusicStore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\song done\MusicStore\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\song done\MusicStore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\song done\MusicStore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\song done\MusicStore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\song done\MusicStore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\song done\MusicStore\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\song done\MusicStore\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\song done\MusicStore\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\song done\MusicStore\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\song done\MusicStore\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\song done\MusicStore\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\song done\MusicStore\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\song done\MusicStore\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\song done\MusicStore\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\song done\MusicStore\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\song done\MusicStore\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\song done\MusicStore\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\song done\MusicStore\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\song done\MusicStore\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\song done\MusicStore\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\song done\MusicStore\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\song done\MusicStore\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\song done\MusicStore\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\song done\MusicStore\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\song done\MusicStore\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\song done\MusicStore\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\song done\MusicStore\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\song done\MusicStore\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\song done\MusicStore\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\song done\MusicStore\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\song done\MusicStore\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\song done\MusicStore\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\song done\MusicStore\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\song done\MusicStore\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\song done\MusicStore\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\song done\MusicStore\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\song done\MusicStore\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\song done\MusicStore\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\song done\MusicStore\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\song done\MusicStore\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\song done\MusicStore\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\song done\MusicStore\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\song done\MusicStore\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\song done\MusicStore\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\song done\MusicStore\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\song done\MusicStore\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\song done\MusicStore\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\song done\MusicStore\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\song done\MusicStore\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\song done\MusicStore\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\song done\MusicStore\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\song done\MusicStore\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\song done\MusicStore\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\song done\MusicStore\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\song done\MusicStore\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\song done\MusicStore\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\song done\MusicStore\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\song done\MusicStore\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\song done\MusicStore\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\song done\MusicStore\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\song done\MusicStore\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\song done\MusicStore\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\song done\MusicStore\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\song done\MusicStore\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\song done\MusicStore\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\song done\MusicStore\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\song done\MusicStore\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\song done\MusicStore\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\song done\MusicStore\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\song done\MusicStore\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\song done\MusicStore\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\song done\MusicStore\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\song done\MusicStore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\song done\MusicStore\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\song done\MusicStore\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\song done\MusicStore\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\song done\MusicStore\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\song done\MusicStore\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\song done\MusicStore\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\song done\MusicStore\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\song done\MusicStore\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\song done\MusicStore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\song done\MusicStore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\song done\MusicStore\obj\Debug\netcoreapp3.1\MusicStore.csprojAssemblyReference.cache
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\song done\MusicStore\obj\Debug\netcoreapp3.1\MusicStore.AssemblyInfoInputs.cache
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\song done\MusicStore\obj\Debug\netcoreapp3.1\MusicStore.AssemblyInfo.cs
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\song done\MusicStore\obj\Debug\netcoreapp3.1\MusicStore.csproj.CoreCompileInputs.cache
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\song done\MusicStore\obj\Debug\netcoreapp3.1\MusicStore.MvcApplicationPartsAssemblyInfo.cache
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\song done\MusicStore\obj\Debug\netcoreapp3.1\MusicStore.RazorAssemblyInfo.cache
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\song done\MusicStore\obj\Debug\netcoreapp3.1\MusicStore.RazorAssemblyInfo.cs
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\song done\MusicStore\obj\Debug\netcoreapp3.1\staticwebassets\MusicStore.StaticWebAssets.Manifest.cache
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\song done\MusicStore\obj\Debug\netcoreapp3.1\staticwebassets\MusicStore.StaticWebAssets.xml
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\song done\MusicStore\obj\Debug\netcoreapp3.1\scopedcss\bundle\MusicStore.styles.css
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\song done\MusicStore\obj\Debug\netcoreapp3.1\MusicStore.TagHelpers.input.cache
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\song done\MusicStore\obj\Debug\netcoreapp3.1\MusicStore.TagHelpers.output.cache
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\song done\MusicStore\obj\Debug\netcoreapp3.1\MusicStore.RazorCoreGenerate.cache
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\song done\MusicStore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\song done\MusicStore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\song done\MusicStore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\song done\MusicStore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\song done\MusicStore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\song done\MusicStore\obj\Debug\netcoreapp3.1\Razor\Views\Song\Create.cshtml.g.cs
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\song done\MusicStore\obj\Debug\netcoreapp3.1\Razor\Views\Song\Delete.cshtml.g.cs
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\song done\MusicStore\obj\Debug\netcoreapp3.1\Razor\Views\Song\Details.cshtml.g.cs
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\song done\MusicStore\obj\Debug\netcoreapp3.1\Razor\Views\Song\Index.cshtml.g.cs
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\song done\MusicStore\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\song done\MusicStore\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\song done\MusicStore\obj\Debug\netcoreapp3.1\MusicStore.RazorTargetAssemblyInfo.cache
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\song done\MusicStore\obj\Debug\netcoreapp3.1\MusicStore.RazorTargetAssemblyInfo.cs
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\song done\MusicStore\obj\Debug\netcoreapp3.1\MusicStore.Views.pdb
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\song done\MusicStore\obj\Debug\netcoreapp3.1\MusicStore.csproj.CopyComplete
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\song done\MusicStore\obj\Debug\netcoreapp3.1\MusicStore.dll
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\song done\MusicStore\obj\Debug\netcoreapp3.1\MusicStore.pdb
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\song done\MusicStore\obj\Debug\netcoreapp3.1\MusicStore.genruntimeconfig.cache
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\song done\MusicStore\obj\Debug\netcoreapp3.1\Razor\Views\Song\Edit.cshtml.g.cs
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\song done\MusicStore\obj\Debug\netcoreapp3.1\Razor\Views\Album\Index.cshtml.g.cs
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\song done\MusicStore\obj\Debug\netcoreapp3.1\Razor\Views\Album\Create.cshtml.g.cs
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\song done\MusicStore\obj\Debug\netcoreapp3.1\Razor\Views\Album\Edit.cshtml.g.cs
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\song done\MusicStore\obj\Debug\netcoreapp3.1\Razor\Views\Album\Delete.cshtml.g.cs
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\song done\MusicStore\obj\Debug\netcoreapp3.1\Razor\Views\Album\Details.cshtml.g.cs
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\obj\Debug\netcoreapp3.1\MusicStore.AssemblyInfoInputs.cache
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\obj\Debug\netcoreapp3.1\MusicStore.AssemblyInfo.cs
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\obj\Debug\netcoreapp3.1\MusicStore.csproj.CoreCompileInputs.cache
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\obj\Debug\netcoreapp3.1\MusicStore.MvcApplicationPartsAssemblyInfo.cache
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\obj\Debug\netcoreapp3.1\MusicStore.RazorAssemblyInfo.cache
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\obj\Debug\netcoreapp3.1\MusicStore.RazorAssemblyInfo.cs
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\obj\Debug\netcoreapp3.1\MusicStore.csprojAssemblyReference.cache
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\appsettings.json
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\MusicStore.exe
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\MusicStore.deps.json
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\MusicStore.runtimeconfig.json
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\MusicStore.runtimeconfig.dev.json
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\MusicStore.dll
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\MusicStore.pdb
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\MusicStore.Views.dll
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\MusicStore.Views.pdb
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\obj\Debug\netcoreapp3.1\staticwebassets\MusicStore.StaticWebAssets.Manifest.cache
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\obj\Debug\netcoreapp3.1\staticwebassets\MusicStore.StaticWebAssets.xml
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\obj\Debug\netcoreapp3.1\scopedcss\bundle\MusicStore.styles.css
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\obj\Debug\netcoreapp3.1\MusicStore.TagHelpers.input.cache
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\obj\Debug\netcoreapp3.1\MusicStore.TagHelpers.output.cache
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\obj\Debug\netcoreapp3.1\MusicStore.RazorCoreGenerate.cache
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\obj\Debug\netcoreapp3.1\Razor\Views\Album\AddSong.cshtml.g.cs
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\obj\Debug\netcoreapp3.1\Razor\Views\Album\Create.cshtml.g.cs
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\obj\Debug\netcoreapp3.1\Razor\Views\Album\Delete.cshtml.g.cs
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\obj\Debug\netcoreapp3.1\Razor\Views\Album\DeleteSong.cshtml.g.cs
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\obj\Debug\netcoreapp3.1\Razor\Views\Album\Details.cshtml.g.cs
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\obj\Debug\netcoreapp3.1\Razor\Views\Album\DetailsSong.cshtml.g.cs
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\obj\Debug\netcoreapp3.1\Razor\Views\Album\Edit.cshtml.g.cs
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\obj\Debug\netcoreapp3.1\Razor\Views\Album\EditSong.cshtml.g.cs
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\obj\Debug\netcoreapp3.1\Razor\Views\Album\Index.cshtml.g.cs
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\obj\Debug\netcoreapp3.1\Razor\Views\Playlists\AddSong.cshtml.g.cs
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\obj\Debug\netcoreapp3.1\Razor\Views\Playlists\Create.cshtml.g.cs
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\obj\Debug\netcoreapp3.1\Razor\Views\Playlists\Delete.cshtml.g.cs
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\obj\Debug\netcoreapp3.1\Razor\Views\Playlists\Details.cshtml.g.cs
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\obj\Debug\netcoreapp3.1\Razor\Views\Playlists\Index.cshtml.g.cs
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\obj\Debug\netcoreapp3.1\Razor\Views\Song\Create.cshtml.g.cs
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\obj\Debug\netcoreapp3.1\Razor\Views\Song\Delete.cshtml.g.cs
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\obj\Debug\netcoreapp3.1\Razor\Views\Song\Details.cshtml.g.cs
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\obj\Debug\netcoreapp3.1\Razor\Views\Song\Edit.cshtml.g.cs
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\obj\Debug\netcoreapp3.1\Razor\Views\Song\Index.cshtml.g.cs
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\obj\Debug\netcoreapp3.1\MusicStore.RazorTargetAssemblyInfo.cache
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\obj\Debug\netcoreapp3.1\MusicStore.RazorTargetAssemblyInfo.cs
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\obj\Debug\netcoreapp3.1\MusicStore.Views.pdb
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\obj\Debug\netcoreapp3.1\MusicStore.csproj.CopyComplete
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\obj\Debug\netcoreapp3.1\MusicStore.dll
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\obj\Debug\netcoreapp3.1\MusicStore.pdb
+D:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\obj\Debug\netcoreapp3.1\MusicStore.genruntimeconfig.cache
+E:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\appsettings.json
+E:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\MusicStore.exe
+E:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\MusicStore.deps.json
+E:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\MusicStore.runtimeconfig.json
+E:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\MusicStore.runtimeconfig.dev.json
+E:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\MusicStore.dll
+E:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\MusicStore.pdb
+E:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\MusicStore.Views.dll
+E:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\MusicStore.Views.pdb
+E:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+E:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+E:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+E:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+E:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+E:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+E:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+E:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+E:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+E:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+E:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+E:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+E:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+E:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+E:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+E:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+E:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+E:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+E:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+E:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+E:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+E:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+E:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+E:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+E:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+E:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+E:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+E:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+E:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+E:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+E:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+E:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+E:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+E:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+E:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+E:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+E:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+E:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+E:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+E:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+E:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+E:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+E:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+E:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+E:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+E:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+E:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+E:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+E:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\obj\Debug\netcoreapp3.1\MusicStore.csprojAssemblyReference.cache
+E:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\obj\Debug\netcoreapp3.1\MusicStore.AssemblyInfoInputs.cache
+E:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\obj\Debug\netcoreapp3.1\MusicStore.AssemblyInfo.cs
+E:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\obj\Debug\netcoreapp3.1\MusicStore.csproj.CoreCompileInputs.cache
+E:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\obj\Debug\netcoreapp3.1\MusicStore.MvcApplicationPartsAssemblyInfo.cache
+E:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\obj\Debug\netcoreapp3.1\MusicStore.RazorAssemblyInfo.cache
+E:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\obj\Debug\netcoreapp3.1\MusicStore.RazorAssemblyInfo.cs
+E:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\obj\Debug\netcoreapp3.1\staticwebassets\MusicStore.StaticWebAssets.Manifest.cache
+E:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\obj\Debug\netcoreapp3.1\staticwebassets\MusicStore.StaticWebAssets.xml
+E:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\obj\Debug\netcoreapp3.1\scopedcss\bundle\MusicStore.styles.css
+E:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\obj\Debug\netcoreapp3.1\MusicStore.TagHelpers.input.cache
+E:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\obj\Debug\netcoreapp3.1\MusicStore.TagHelpers.output.cache
+E:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\obj\Debug\netcoreapp3.1\MusicStore.RazorCoreGenerate.cache
+E:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\obj\Debug\netcoreapp3.1\Razor\Views\Album\AddSong.cshtml.g.cs
+E:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\obj\Debug\netcoreapp3.1\Razor\Views\Album\Create.cshtml.g.cs
+E:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\obj\Debug\netcoreapp3.1\Razor\Views\Album\Delete.cshtml.g.cs
+E:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\obj\Debug\netcoreapp3.1\Razor\Views\Album\DeleteSong.cshtml.g.cs
+E:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\obj\Debug\netcoreapp3.1\Razor\Views\Album\Details.cshtml.g.cs
+E:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\obj\Debug\netcoreapp3.1\Razor\Views\Album\DetailsSong.cshtml.g.cs
+E:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\obj\Debug\netcoreapp3.1\Razor\Views\Album\Edit.cshtml.g.cs
+E:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\obj\Debug\netcoreapp3.1\Razor\Views\Album\EditSong.cshtml.g.cs
+E:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\obj\Debug\netcoreapp3.1\Razor\Views\Album\Index.cshtml.g.cs
+E:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\obj\Debug\netcoreapp3.1\Razor\Views\Playlists\AddSong.cshtml.g.cs
+E:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\obj\Debug\netcoreapp3.1\Razor\Views\Playlists\Create.cshtml.g.cs
+E:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\obj\Debug\netcoreapp3.1\Razor\Views\Playlists\Delete.cshtml.g.cs
+E:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\obj\Debug\netcoreapp3.1\Razor\Views\Playlists\Details.cshtml.g.cs
+E:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\obj\Debug\netcoreapp3.1\Razor\Views\Playlists\Index.cshtml.g.cs
+E:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+E:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\obj\Debug\netcoreapp3.1\Razor\Views\Song\Create.cshtml.g.cs
+E:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\obj\Debug\netcoreapp3.1\Razor\Views\Song\Delete.cshtml.g.cs
+E:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\obj\Debug\netcoreapp3.1\Razor\Views\Song\Details.cshtml.g.cs
+E:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\obj\Debug\netcoreapp3.1\Razor\Views\Song\Edit.cshtml.g.cs
+E:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\obj\Debug\netcoreapp3.1\Razor\Views\Song\Index.cshtml.g.cs
+E:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\obj\Debug\netcoreapp3.1\MusicStore.RazorTargetAssemblyInfo.cache
+E:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\obj\Debug\netcoreapp3.1\MusicStore.RazorTargetAssemblyInfo.cs
+E:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\obj\Debug\netcoreapp3.1\MusicStore.Views.pdb
+E:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\obj\Debug\netcoreapp3.1\MusicStore.csproj.CopyComplete
+E:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\obj\Debug\netcoreapp3.1\MusicStore.dll
+E:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\obj\Debug\netcoreapp3.1\MusicStore.pdb
+E:\akshay\SEM6\LABS\OOSE - MTM\Project\MusicStore\obj\Debug\netcoreapp3.1\MusicStore.genruntimeconfig.cache
